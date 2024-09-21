@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   const FooterStyle = {
-    backgroundColor: "mediumblue",
+    backgroundColor: "mediummblue",
     color: "#fff",
     width: "62vh",
   };
